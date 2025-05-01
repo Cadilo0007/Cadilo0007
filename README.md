@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Justine Leymark, and I'm an aspiring frontend developer from the Philippines.</h2>
+<h2 align="left">Hi 👋! My name is <h2 style="color: blue;"> Justine Leymark </h2>, and I'm an aspiring frontend developer from the Philippines.</h2>
 
 ###
 
