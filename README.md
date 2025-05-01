@@ -64,9 +64,10 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cadilo0007/output/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cadilo0007/output/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Cadilo0007/output/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cadilo0007/Cadilo0007/main/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cadilo0007/Cadilo0007/main/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Cadilo0007/Cadilo0007/main/output/github-snake.svg" />
 </picture>
+
 
 
