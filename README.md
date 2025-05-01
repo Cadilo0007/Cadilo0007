@@ -50,7 +50,7 @@
   <a href="https://www.twitch.tv/jl_cadilo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="ju27ine@gmail.com" target="_blank">
+  <<a href="mailto:ju27ine@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/justine-leymark-b-cadilo-900806315/" target="_blank">
@@ -64,7 +64,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cadilo0007/Cadilo0007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cadilo0007/Cadilo0007/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadilo0007/cadilo0007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadilo0007/cadilo0007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cadilo007/cadilo007/output/github-snake.svg" />
 </picture>
