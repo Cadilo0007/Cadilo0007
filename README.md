@@ -5,9 +5,8 @@
 ###
 
 <h2 align="left">
-  Hi 👋! I'm Justine Leymark, a passionate freelancer from the Philippines.
+  Hi 👋! I'm Justine Leymark, a freelance web developer and designer from the Philippines.
 </h2>
-
 
 ###
 
@@ -46,8 +45,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+
 
 ###
 
