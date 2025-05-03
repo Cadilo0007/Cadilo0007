@@ -50,7 +50,10 @@
 </div>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 
+<h2 align="left">
+ 🤝🏻 Connect with Me
+</h2>
 
 <div align="left">
   <a href="https://www.youtube.com/@jlart5252" target="_blank">
