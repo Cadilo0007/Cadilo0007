@@ -3,25 +3,37 @@
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" /> Hey, I'm Justine Leymark!</h1>
   <p><strong>Developer & Creative Artist from the Philippines 🇵🇭</strong></p>
 </div>
-
+<p align="center">
+  <a href="https://www.justine-cadilo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Click%20Here-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Anime+Lover;Dark+Mode+Enthusiast;JL+Art+Founder;JAC+O'+Trades+Co-Founder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Dark+Mode+Enthusiast;JAC+O'+Trades+Co-Founder" />
 </div>
 
 ## 💫 About Me
 <img align="right" height="150" src="https://gifdb.com/images/high/marin-kitagawa-cute-anime-chibi-qunlo66a3iqzzzns.webp" />
 
-- 💻 I’m currently focusing on **Frontend Development** and **UI/UX Design**.
-- 🎨 I run **JL Art**, blending technical code with creative branding.
-- ⚡ Fun fact: I'm a big fan of **One Piece** and minimalist dark-mode aesthetics.
-- 📫 How to reach me: `ju27ine@gmail.com`
+- 💻 I'm currently focusing on **Frontend Development** and **UI/UX Design**  
+- 🎨 I'm also an artist, with a background in painting, drawing, and sometimes digital art  
+- 📚 I'm continuously learning and improving my tech stack  
+- 📫 How to reach me: **ju27ine@gmail.com** | 🌐 justine-leymark.com  
 
 ## 🚀 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,tailwind,nextjs,vite,php,nodejs,mysql,java,cpp,wordpress,git,github,vscode,vercel,discord,cloudflare,arduino,figma,canva&theme=dark" />
 </p>
+<p align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Cadilo0007&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadilo0007&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 ## 🤝🏻 Connect with Me
 
 <div align="left">
@@ -40,8 +52,10 @@
   <a href="https://www.twitch.tv/jl_cadilo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
+    <a href="https://www.justine-cadilo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&text=Joined%20GitHub&textBg=false&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&section=footer&descAlign=50&descAlignY=64&desc=2023-2026" />
 </div>
