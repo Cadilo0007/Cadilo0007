@@ -4,9 +4,11 @@
   <p><strong>Developer & Creative Artist from the Philippines 🇵🇭</strong></p>
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Anime+Lover;Dark+Mode+Enthusiast;JL+Art+Founder;JAC+O'+Trades+Co-Founder" />
+</div>
 
-### 💫 About Me
+## 💫 About Me
 <img align="right" height="150" src="https://gifdb.com/images/high/marin-kitagawa-cute-anime-chibi-qunlo66a3iqzzzns.webp" />
 
 - 💻 I’m currently focusing on **Frontend Development** and **UI/UX Design**.
@@ -14,28 +16,14 @@
 - ⚡ Fun fact: I'm a big fan of **One Piece** and minimalist dark-mode aesthetics.
 - 📫 How to reach me: `ju27ine@gmail.com`
 
----
+## 🚀 Tech Stack
 
-### 🚀 Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,tailwind,nextjs,vite,php,nodejs,mysql,java,cpp,wordpress,git,github,vscode,vercel,discord,cloudflare,arduino,figma,canva&theme=dark" />
+</p>
 
----
+## 🤝🏻 Connect with Me
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cadilo0007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadilo0007&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
-### 🤝🏻 Connect with Me
 <div align="left">
   <a href="https://www.youtube.com/@jlart5252" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
@@ -52,4 +40,8 @@
   <a href="https://www.twitch.tv/jl_cadilo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&text=Joined%20GitHub&textBg=false&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&section=footer&descAlign=50&descAlignY=64&desc=2023-2026" />
 </div>
