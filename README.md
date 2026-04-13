@@ -25,15 +25,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,tailwind,nextjs,vite,php,nodejs,mysql,java,cpp,wordpress,git,github,vscode,vercel,discord,cloudflare,arduino,figma,canva&theme=dark" />
 </p>
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Cadilo0007&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadilo0007&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
 ## 🤝🏻 Connect with Me
 
 <div align="left">
