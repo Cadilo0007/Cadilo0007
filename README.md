@@ -13,7 +13,7 @@
 </div>
 
 ## 💫 About Me
-<img align="right" height="150" src="https://gifdb.com/images/high/marin-kitagawa-cute-anime-chibi-qunlo66a3iqzzzns.webp" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif" />
 
 - 💻 I'm currently focusing on **Frontend Development** and **UI/UX Design**  
 - 🎨 I'm also an artist, with a background in painting, drawing, and sometimes digital art  
