@@ -45,9 +45,9 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
     <a href="https://www.justine-cadilo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20My%20Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&text=Joined%20GitHub&textBg=false&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn&section=footer&descAlign=50&descAlignY=64&desc=2023-2026" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&text=Joined%20GitHub&textBg=false&fontSize=30&fontAlign=50&fontColor=ffffff&animation=fadeIn&section=footer&descAlign=50&descAlignY=64&desc=2023-2026" />
 </div>
