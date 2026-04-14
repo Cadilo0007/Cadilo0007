@@ -18,7 +18,7 @@
 - 💻 I'm currently focusing on **Frontend Development** and **UI/UX Design**  
 - 🎨 I'm also an artist, with a background in painting, drawing, and sometimes digital art  
 - 📚 I'm continuously learning and improving my tech stack  
-- 📫 How to reach me: **ju27ine@gmail.com** | 🌐 justine-leymark.com  
+- 📫 How to reach me: **ju27ine@gmail.com** | 🌐 `justine-cadilo.com` 
 
 ## 🚀 Tech Stack
 
